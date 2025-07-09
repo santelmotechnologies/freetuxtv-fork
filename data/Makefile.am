@@ -7,7 +7,6 @@ xml_DATA = $(xml_in_files:.xml.in=.xml)
 # Other data file to install
 freetuxtvdata_DATA = \
 	sqlite3-create-tables.sql \
-	tv_channels.xml \
 	splashscreen.png
 
 freetuxtvdatadir = \
