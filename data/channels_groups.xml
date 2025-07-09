@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels_groups>
+	<language id="af" lang="Afrikaans Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/afr.m3u" name="Web TV (Afrikaans)"></channels_group>
+	</language>
+	<language id="sq" lang="Albanian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/sqi.m3u" name="Web TV (Albanian)"></channels_group>
+	</language>
+	<language id="am" lang="Amharic Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/amh.m3u" name="Web TV (Amharic)"></channels_group>
+	</language>
+	<language id="ar" lang="Arabic Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/ara.m3u" name="Web TV (Arabic)"></channels_group>
+	</language>
+	<language id="hy" lang="Armenian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/hye.m3u" name="Web TV (Armenian)"></channels_group>
+	</language>
+	<language id="az" lang="Azerbaijani Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/aze.m3u" name="Web TV (Azerbaijani)"></channels_group>
+	</language>
+	<language id="bn" lang="Bengali/Bangla Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/ben.m3u" name="Web TV (Bengali/Bangla)"></channels_group>
+	</language>
+	<language id="bg" lang="Bulgarian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/bul.m3u" name="Web TV (Bulgarian)"></channels_group>
+	</language>
+	<language id="km" lang="Cambodian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/khm.m3u" name="Web TV (Cambodian)"></channels_group>
+	</language>
+	<language id="ca" lang="Catalan Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/cat.m3u" name="Web TV (Catalan)"></channels_group>
+	</language>
+	<language id="zh" lang="Chinese Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/zho.m3u" name="Web TV (Chinese)"></channels_group>
+	</language>
+	<language id="hr" lang="Croatian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/hrv.m3u" name="Web TV (Croatian)"></channels_group>
+	</language>
+	<language id="cs" lang="Czech Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/ces.m3u" name="Web TV (Czech)"></channels_group>
+	</language>
+	<language id="da" lang="Danish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/dan.m3u" name="Web TV (Danish)"></channels_group>
+	</language>
+	<language id="nl" lang="Dutch Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/nld.m3u" name="Web TV (Dutch)"></channels_group>
+	</language>
+	<language id="en" lang="English Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/eng.m3u" name="Web TV (English)"></channels_group>
+	</language>
+	<language id="et" lang="Estonian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/est.m3u" name="Web TV (Estonian)"></channels_group>
+	</language>
+	<language id="fi" lang="Finnish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/fin.m3u" name="Web TV (Finnish)"></channels_group>
+	</language>
+	<language id="fr" lang="French Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/fra.m3u" name="Web TV (French)"></channels_group>
+	</language>
+	<language id="ka" lang="Georgian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/kat.m3u" name="Web TV (Georgian)"></channels_group>
+	</language>
+	<language id="de" lang="German Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/deu.m3u" name="Web TV (German)"></channels_group>
+	</language>
+	<language id="el" lang="Greek Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/ell.m3u" name="Web TV (Greek)"></channels_group>
+	</language>
+	<language id="iw" lang="Hebrew Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/heb.m3u" name="Web TV (Hebrew)"></channels_group>
+	</language>
+	<language id="hi" lang="Hindi Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/hin.m3u" name="Web TV (Hindi)"></channels_group>
+	</language>
+	<language id="hu" lang="Hungarian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/hun.m3u" name="Web TV (Hungarian)"></channels_group>
+	</language>
+	<language id="is" lang="Icelandic Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/isl.m3u" name="Web TV (Icelandic)"></channels_group>
+	</language>
+	<language id="in" lang="Indonesian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/ind.m3u" name="Web TV (Indonesian)"></channels_group>
+	</language>
+	<language id="ga" lang="Irish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/gle.m3u" name="Web TV (Irish)"></channels_group>
+	</language>
+	<language id="it" lang="Italian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/ita.m3u" name="Web TV (Italian)"></channels_group>
+	</language>
+	<language id="ja" lang="Japanese Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/jpn.m3u" name="Web TV (Japanese)"></channels_group>
+	</language>
+	<language id="kk" lang="Kazakh Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/kaz.m3u" name="Web TV (Kazakh)"></channels_group>
+	</language>
+	<language id="ko" lang="Korean Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/kor.m3u" name="Web TV (Korean)"></channels_group>
+	</language>
+	<language id="ku" lang="Kurdish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/kur.m3u" name="Web TV (Kurdish)"></channels_group>
+	</language>
+	<language id="la" lang="Latin Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/lat.m3u" name="Web TV (Latin)"></channels_group>
+	</language>
+	<language id="lv" lang="Latvian/Lettish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/lav.m3u" name="Web TV (Latvian/Lettish)"></channels_group>
+	</language>
+	<language id="lt" lang="Lithuanian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/lit.m3u" name="Web TV (Lithuanian)"></channels_group>
+	</language>
+	<language id="mk" lang="Macedonian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/mkd.m3u" name="Web TV (Macedonian)"></channels_group>
+	</language>
+	<language id="ms" lang="Malay Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/msa.m3u" name="Web TV (Malay)"></channels_group>
+	</language>
+	<language id="ml" lang="Malayalam Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/mal.m3u" name="Web TV (Malayalam)"></channels_group>
+	</language>
+	<language id="mt" lang="Maltese Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/mlt.m3u" name="Web TV (Maltese)"></channels_group>
+	</language>
+	<language id="mo" lang="Moldavian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/countries/md.m3u" name="Web TV (Moldavian)"></channels_group>
+	</language>
+	<language id="mn" lang="Mongolian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/mon.m3u" name="Web TV (Mongolian)"></channels_group>
+	</language>
+	<language id="no" lang="Norwegian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/nor.m3u" name="Web TV (Norwegian)"></channels_group>
+	</language>
+	<language id="fa" lang="Persian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/fas.m3u" name="Web TV (Persian)"></channels_group>
+	</language>
+	<language id="pl" lang="Polish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/pol.m3u" name="Web TV (Polish)"></channels_group>
+	</language>
+	<language id="pt" lang="Portuguese Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/por.m3u" name="Web TV (Portuguese)"></channels_group>
+	</language>
+	<language id="pa" lang="Punjabi Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/pan.m3u" name="Web TV (Punjabi)"></channels_group>
+	</language>
+	<language id="ro" lang="Romanian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/countries/ro.m3u" name="Web TV (Romanian)"></channels_group>
+	</language>
+	<language id="ru" lang="Russian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/rus.m3u" name="Web TV (Russian)"></channels_group>
+	</language>
+	<language id="sr" lang="Serbian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/srp.m3u" name="Web TV (Serbian)"></channels_group>
+	</language>
+	<language id="sh" lang="Serbo-Croatian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/hbs.m3u" name="Web TV (Serbo-Croatian)"></channels_group>
+	</language>
+	<language id="sk" lang="Slovak Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/slk.m3u" name="Web TV (Slovak)"></channels_group>
+	</language>
+	<language id="sl" lang="Slovenian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/slv.m3u" name="Web TV (Slovenian)"></channels_group>
+	</language>
+	<language id="es" lang="Spanish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/spa.m3u" name="Web TV (Spanish)"></channels_group>
+	</language>
+	<language id="sv" lang="Swedish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/swe.m3u" name="Web TV (Swedish)"></channels_group>
+	</language>
+	<language id="tl" lang="Tagalog Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/tgl.m3u" name="Web TV (Tagalog)"></channels_group>
+	</language>
+	<language id="ta" lang="Tamil Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/tam.m3u" name="Web TV (Tamil)"></channels_group>
+	</language>
+	<language id="th" lang="Thai Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/tha.m3u" name="Web TV (Thai)"></channels_group>
+	</language>
+	<language id="tr" lang="Turkish Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/tur.m3u" name="Web TV (Turkish)"></channels_group>
+	</language>
+	<language id="tk" lang="Turkmen Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/tuk.m3u" name="Web TV (Turkmen)"></channels_group>
+	</language>
+	<language id="uk" lang="Ukrainian Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/ukr.m3u" name="Web TV (Ukrainian)"></channels_group>
+	</language>
+	<language id="ur" lang="Urdu Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/urd.m3u" name="Web TV (Urdu)"></channels_group>
+	</language>
+	<language id="uz" lang="Uzbek Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/uzb.m3u" name="Web TV (Uzbek)"></channels_group>
+	</language>
+	<language id="vi" lang="Vietnamese Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/vie.m3u" name="Web TV (Vietnamese)"></channels_group>
+	</language>
+	<language id="none" lang="No lang Web TV">
+		<channels_group uri="https://iptv-org.github.io/iptv/languages/undefined.m3u" name="Web TV (No lang)"></channels_group>
+	</language>
+</channels_groups>
